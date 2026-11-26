@@ -1,0 +1,6 @@
+{
+  "name": "StatiGen AI",
+  "description": "AI-enhanced application for automated statistical data preparation, weighted survey estimation, and publication-ready report writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
